@@ -1,0 +1,10 @@
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\bin\Release\SearchInShatabrick.exe
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\SearchInShatabrick.MainForm.resources
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\SearchInShatabrick.exe
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\bin\Release\SearchInShatabrick.exe
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\SearchInShatabrick.MainForm.resources
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\SearchInShatabrick.csproj.GenerateResource.Cache
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Release\SearchInShatabrick.exe

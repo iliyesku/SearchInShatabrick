@@ -1,0 +1,18 @@
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\bin\Debug\SearchInShatabrick.exe
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\bin\Debug\SearchInShatabrick.pdb
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.exe
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.pdb
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.MainForm.resources
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\iliyesku\Мои документы\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\STORE\edu\Информатика\Программирование\Programs_imp_\C#\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.csprojResolveAssemblyReference.cache
+F:\STORE\edu\Информатика\Программирование\Programs_imp_\C#\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.MainForm.resources
+F:\STORE\edu\Информатика\Программирование\Programs_imp_\C#\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.csproj.GenerateResource.Cache
+F:\STORE\edu\Информатика\Программирование\Programs_imp_\C#\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.exe
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.MainForm.resources
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.csproj.GenerateResource.Cache
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.exe
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\bin\Debug\SearchInShatabrick.exe
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\bin\Debug\SearchInShatabrick.pdb
+C:\Users\iliyesku\Documents\SharpDevelop Projects\SearchInShatabrick\SearchInShatabrick\obj\x86\Debug\SearchInShatabrick.pdb
