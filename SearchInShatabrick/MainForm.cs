@@ -34,6 +34,9 @@ namespace SearchInShatabrick
 		{
 			try
 			{
+				var fi = new FileInfo(e.FullPath);
+				if( fi.Length == 0 )
+					return;
 				string s = File.ReadAllText(e.FullPath);
 				if (s != string.Empty)
 				{
