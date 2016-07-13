@@ -5,8 +5,10 @@ Program for searching online C&C3KW players in Shatabrick
 
 2. Find a player online and press "finger down"
 
-3. Switch to your browser by pressing Alt+Tab
+3. Switch to your browser by pressing Alt+Tab (if necessary)
 
 4. View player's statistics
 
 5. Press "finger up" (optional)
+
+The program tested on Windows 7, Steam + Revora
