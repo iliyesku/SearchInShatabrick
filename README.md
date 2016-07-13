@@ -1,10 +1,10 @@
 # SearchInShatabrick
 Program for searching online C&C3KW players in Shatabrick
 
-Run SearchInShatabrick.exe
+1. Run SearchInShatabrick.exe
 
-Find a player online and press "finger down"
+2. Find a player online and press "finger down"
 
-Switch to your browser by pressing Alt+Tab
+3. Switch to your browser by pressing Alt+Tab
 
-View player's statistics
+4. View player's statistics
